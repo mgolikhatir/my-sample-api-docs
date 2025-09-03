@@ -26,7 +26,7 @@ This project is a perfect example of the quality and attention to detail I bring
 ### 🌐 Live Documentation
 You can explore the live, interactive API documentation here:
 
-_**https://mgolikhatir.github.io/my-sample-api-docs/** https://mgolikhatir.github.io/my-sample-api-docs/
+_**https://mgolikhatir.github.io/my-sample-api-docs/**
 
 ---
 
